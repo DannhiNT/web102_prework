@@ -21,12 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='https://imgur.com/a/JCvCblx' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented features: https://imgur.com/a/JCvCblx
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Kap for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
